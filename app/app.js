@@ -564,7 +564,7 @@
 
   function renderHome() {
     var chs = chapters();
-    var lawColor = { "한국사": "#B45309" };
+    var lawColor = { "한국사": "#B45309", "Grok 생성": "#059669" };
     var listHtml = "", lastLaw = null;
     chs.forEach(function (ch, ci) {
       var law = ch.title.split(" 제")[0];
