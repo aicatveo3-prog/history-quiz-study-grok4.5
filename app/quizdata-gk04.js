@@ -1,6 +1,5 @@
 // Grok 생성 · 남북국 — 한능검 제78회 분산 반영
-//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
-  window.QUIZ_CHAPTERS["gk04"]
+// window.QUIZ_CHAPTERS["gk04"]
 (function () {
   var DATA = [
     {
@@ -154,5 +153,6 @@
       }
     ]
   };
+  window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
   window.QUIZ_CHAPTERS["gk04"] = { data: DATA, theory: THEORY, checklist: CHECKLIST };
 })();

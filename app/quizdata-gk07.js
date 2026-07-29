@@ -1,6 +1,5 @@
 // Grok 생성 · 조선 후기 — 한능검 제78회 분산 반영
-//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
-  window.QUIZ_CHAPTERS["gk07"]
+// window.QUIZ_CHAPTERS["gk07"]
 (function () {
   var DATA = [
     {
@@ -310,5 +309,6 @@
       }
     ]
   };
+  window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
   window.QUIZ_CHAPTERS["gk07"] = { data: DATA, theory: THEORY, checklist: CHECKLIST };
 })();

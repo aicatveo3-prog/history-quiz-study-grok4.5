@@ -1,6 +1,5 @@
 // Grok 생성 · 개항기·근대 — 한능검 제78회 분산 반영
-//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
-  window.QUIZ_CHAPTERS["gk08"]
+// window.QUIZ_CHAPTERS["gk08"]
 (function () {
   var DATA = [
     {
@@ -498,5 +497,6 @@
       }
     ]
   };
+  window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
   window.QUIZ_CHAPTERS["gk08"] = { data: DATA, theory: THEORY, checklist: CHECKLIST };
 })();
