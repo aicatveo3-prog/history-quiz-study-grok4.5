@@ -108,6 +108,7 @@
     answers: []     // items 와 같은 길이, "O"|"X"|null
   };
 
+  window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
   var root = document.getElementById("app");
   var lastNavKey = null;
 

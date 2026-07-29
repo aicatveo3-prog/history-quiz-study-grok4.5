@@ -1,5 +1,6 @@
 // Grok 생성 · 선사 시대 — 한능검 제78회 분산 반영
-// window.QUIZ_CHAPTERS["gk01"]
+//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
+  window.QUIZ_CHAPTERS["gk01"]
 (function () {
   var DATA = [
     {

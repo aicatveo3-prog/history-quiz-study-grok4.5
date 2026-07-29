@@ -1,5 +1,6 @@
 // Grok 생성 · 고조선·초기 국가 — 한능검 제78회 분산 반영
-// window.QUIZ_CHAPTERS["gk02"]
+//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
+  window.QUIZ_CHAPTERS["gk02"]
 (function () {
   var DATA = [
     {

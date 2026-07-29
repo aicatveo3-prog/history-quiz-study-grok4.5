@@ -1,5 +1,6 @@
 // Grok 생성 · 고려 — 한능검 제78회 분산 반영
-// window.QUIZ_CHAPTERS["gk05"]
+//   window.QUIZ_CHAPTERS = window.QUIZ_CHAPTERS || {};
+  window.QUIZ_CHAPTERS["gk05"]
 (function () {
   var DATA = [
     {
