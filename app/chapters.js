@@ -1,4 +1,4 @@
-// 챕터 목록 — Grok 생성 1~10편 (한능검 제77·78회)
+// 챕터 목록 — Grok 생성 1~10편 (한능검 제77·78회, 해설 개선)
 window.CHAPTER_LIST = [
   { id: "gk01", num: 1, title: "Grok 생성 제1편 (선사 시대)", file: "quizdata-gk01.js", count: 12 },
   { id: "gk02", num: 2, title: "Grok 생성 제2편 (고조선·초기 국가)", file: "quizdata-gk02.js", count: 19 },
